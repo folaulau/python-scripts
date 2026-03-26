@@ -1,0 +1,5 @@
+pytube
+pydub 
+ffmpeg
+sshtunnel 
+mysql-connector-python
